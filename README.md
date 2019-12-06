@@ -7,5 +7,5 @@ Maternal immune actiation (MIA) via poly ICLC injection was performed on male no
 <br/>
 <br/>
 
-![Experimental design](Insert Link Here)
+![Experimental design](https://github.com/dhglab/CONTE_NHP_MIA/blob/master/Experimental%20Design.png)
 
